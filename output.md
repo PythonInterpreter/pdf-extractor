@@ -1234,3 +1234,613 @@ GROUP
 
 ## Page 45
 
+The AndriTz Group ANNUAL REPORT 2022 45
+EXECUTIVE
+The AndriTz AG executive Board comprises The AndriTz AG Supervisory Board consists of
+BOARD AND
+five members, all of whom have many years of six members elected by the Annual General Meeting
+experience and specialist know-how in their and three members delegated by the Works Council.
+respective areas of responsibility.
+ALEXANDER LEEB
+SUPERVISORY
+JOACHIM SCHÖNBECK Chairman of the Supervisory Board
+President and CEO
+Pulp & Paper (Capital Systems), central group functions: WOLFGANG LEITNER
+BOARD OF
+Human Resources Management, Corporate Deputy Chairman
+Communications, Investor Relations, Group Quality
+and Safety Management, Group Site Installation, and WOLFGANG BERNHARD
+Group Business Development JÜRGEN H. FECHTER
+ANDRITZ AG
+ALEXANDER ISOLA
+DOMENICO IACOVELLI MONIKA KIRCHER
+Metals, Group Information Technology, and Group
+Manufacturing Management Delegated members:
+GEORG AUER
+HUMBERT KÖFLER ANDREAS MARTINER
+Pulp & Paper (Service) and Separation ALEXANDER MORI
+NORBERT NETTESHEIM
+Central group functions: Controlling, Accounting &
+Taxes, Treasury, Order and Project Financing,
+Legal and Compliance, Internal Auditing, and
+Group Supply Chain Management
+WOLFGANG SEMPER
+Hydro, Group Automation & Digitalization, and
+Group Corporate Security
+as of December 31, 2022
+
+## Page 46
+
+The AndriTz Group ANNUAL REPORT 2022 46
+THE 2022 BUSINESS YEAR
+AT A GL ANCE
+ORDER BACKLOG
+NEW RECORD VALUES FOR ORDER INTAKE, REVENUE AND EARNINGS
+The order backlog of the ANDRITZ GROUP amounted to
+9,977 MEUR as of December 31, 2022, and was thus
+22% higher than the reference figure for the previous year
+(December 31, 2021: 8,166 MEUR). All four business areas
+recorded a significant increase in order backlog compared
+to the previous year.
+EARNINGS
+The Group’s operating result (EBITA) increased in line with
+revenue and reached a new record level of 649 MEUR (+19%
+ORDER INTAKE REVENUE versus 2021: 547 MEUR), as did revenue. All four business
+The order intake of the ANDRITZ GROUP saw very favorable The Group’s revenue reached 7,543 MEUR, which is also the areas recorded an - in some cases significant - increase in
+development in the 2022 business year and reached a new highest figure in the company’s history (+17% compared operating result. Profitability (EBITA margin) increased to 8.6%
+record level of 9,263 MEUR (+18% compared to 2021: to 2021: 6,463 MEUR). All four business areas succeeded (2021: 8.5%).
+7,880 MEUR). All business areas were able to increase their in increasing their revenue – in some cases significantly –
+order intake significantly compared to the previous year. compared to the previous year. NET WORTH POSITION AND CAPITAL STRUCTURE
+Total assets amounted to 8,492 MEUR (December 31, 2021:
+7,673 MEUR), while the equity ratio increased to 21.6%
+Unit 2022 2021 +/- Unit 2022 2021 +/-
+(December 31, 2021: 20.4%).
+Pulp & Paper MEUR 4,378.7 3,774.7 +16.0% Pulp & Paper MEUR 3,591.1 3,070.6 +17.0%
+Liquid funds amounted to 2,051 MEUR as of Decem-
+Metals MEUR 2,008.6 1,778.8 +12.9% Metals MEUR 1,621.2 1,366.1 +18.7%
+ber 31, 2022 (1,838 MEUR as of the end of 2021), and
+Hydro MEUR 1,956.6 1,565.2 +25.0% Hydro MEUR 1,539.0 1,345.1 +14.4%
+net liquidity increased significantly to 983 MEUR (703 MEUR
+Separation MEUR 919.5 761.0 +20.8% Separation MEUR 791.6 681.2 +16.2%
+as of the end of 2021).
+
+### Tables
+
+#### Table 1
+
+Pulp & Paper|MEUR|4,378.7|3,774.7|+16.0%|Pulp & Paper|MEUR|3,591.1|3,070.6|+17.0%|Liquid funds amounted to 2,051 MEUR as of Decem-
+Metals|MEUR|2,008.6|1,778.8|+12.9%|Metals|MEUR|1,621.2|1,366.1|+18.7%|ber 31, 2022 (1,838 MEUR as of the end of 2021), and
+Hydro|MEUR|1,956.6|1,565.2|+25.0%|Hydro|MEUR|1,539.0|1,345.1|+14.4%|net liquidity increased significantly to 983 MEUR (703 MEUR
+Separation|MEUR|919.5|761.0|+20.8%|Separation|MEUR|791.6|681.2|+16.2%|as of the end of 2021).
+
+## Page 47
+
+The AndriTz Group ANNUAL REPORT 2022 47
+ORDER INTAKE BY REGION 2022 (2021) IN %
+Europe
+27 (31)
+2.1
+China
+12 (13)
+North America billion euros
+27 (23) gross liquidity
+9.3
+billion euros
+order intake
+21.6
+Asia excl. China
+21 (12)
+percent
+South America
+equity ratio
+10 (17)
+Africa, Australia
+3 (4)
+
+## Page 48
+
+The AndriTz Group ANNUAL REPORT 2022 48
+STRATEGY
+“ Research and
+development work
+is an important
+The business strategy of the ANDRITZ GROUP is oriented to offer its customers the most advanced and efficient tech-
+part of the ANDRITZ
+towards sustainably profitable growth. Its long-term goal nologies and products at all times. For this purpose, ANDRITZ
+has been defined as annual growth averaging 5–8% in rev- works together with its customers to develop and test new
+business strategy.”
+enue, at the same time increasing operating profitability products and processes in the company's own pilot plants.
+(EBITA margin) sustainably to between 8 and 9%. ANDRITZ Active ideas and innovation management is intended
+considers research and development, acquisition of com- to promote employees’ ideas in the best way possible and
+panies with a complementary product portfolio, technolog- thus contribute towards developing new solutions. With intel-
+ical and cost leadership, expansion of the company’s market ligent technologies that create added value, ANDRITZ sup-
+position, and global presence to be the cornerstones in ports its customers as much as possible to help them achieve
+achieving this goal. A particularly important component in their business goals, at the same time also opening up new
+this business strategy is sustainability. With its extensive port- sales and growth opportunities for its own business areas.
+folio of sustainable products and solutions, ANDRITZ wishes The acquisition of companies with complementary products
+to make the largest possible contribution towards a sustain- and technologies is also one of the main cornerstones of the
+able future and help its customers achieve their sustainability ANDRITZ business and growth strategy. By developing its
+goals. own products and acquiring other companies, ANDRITZ is
+pursuing the ultimate goal of being a full-line supplier with
+GROWTH AND PROFITABILITY global presence in all of its business areas. Furthermore,
+Research and development work is an important part of the ANDRITZ focuses on continuous optimization of cost and
+ANDRITZ business strategy. Around 3% of the revenue is organizational structures as well as further expansion of ser-
+invested annually in innovation and in research and develop- vice business.
+ment, including order-related work of this kind. ANDRITZ seeks
+
+### Tables
+
+#### Table 1
+
+enue, at the same time increasing operating profitability|products and processes in the company's own pilot plants.|business strategy.”
+(EBITA margin) sustainably to between 8 and 9%. ANDRITZ|Active ideas and innovation management is intended|nan
+considers research and development, acquisition of com-|to promote employees’ ideas in the best way possible and|nan
+panies with a complementary product portfolio, technolog-|thus contribute towards developing new solutions. With intel-|nan
+ical and cost leadership, expansion of the company’s market|ligent technologies that create added value, ANDRITZ sup-|nan
+position, and global presence to be the cornerstones in|ports its customers as much as possible to help them achieve|nan
+achieving this goal. A particularly important component in|their business goals, at the same time also opening up new|nan
+this business strategy is sustainability. With its extensive port-|sales and growth opportunities for its own business areas.|nan
+folio of sustainable products and solutions, ANDRITZ wishes|The acquisition of companies with complementary products|nan
+to make the largest possible contribution towards a sustain-|and technologies is also one of the main cornerstones of the|nan
+able future and help its customers achieve their sustainability|ANDRITZ business and growth strategy. By developing its|nan
+
+## Page 49
+
+The AndriTz Group ANNUAL REPORT 2022 49
+“ ANDRITZ concentrates
+on markets with
+long-term and
+sustainable growth
+TECHNOLOGICAL AND COST LEADERSHIP such as renewable energy sources, decarbonization, the
+All four business areas of the ANDRITZ GROUP number among circular economy, alternative proteins, digital transformation
+potential.”
+the globally leading suppliers for their respective products or electromobility.
+and technologies. In order to strengthen this position, ANDRITZ With a balanced mix of global and local presence,
+must support its customers in achieving their goals in terms ANDRITZ can support its customers effectively in achieving
+of productivity, quality, efficiency of resources and energy, their goals in terms of productivity, profitability and sustain-
+and also sustainability – always with the very latest tech- ability. ANDRITZ considers it essential to further expand its
+nologies. In order to be the preferred technology supplier at worldwide presence in order to utilize growth potential on the
+all times, while also maintaining a competitive cost structure, one hand, particularly in the emerging economies of South
+continuous cost optimizations are needed. A manufacturing America and Asia, and on the other hand to be close to its
+and locations plan tailored to future market opportunities customers in order to be able to guarantee the best possible
+is also essential. and prompt service. Further outsourcing of manufacturing
+capacities to emerging countries enables ANDRITZ to profit
+EXPANSION OF MARKET POSITION AND GLOBAL from growth there, but also has positive effects on the eco-
+PRESENCE nomic growth and labor market in these countries.
+ANDRITZ concentrates on markets with long-term, sustain-
+able growth potential and, within these markets, on areas
+that are showing above average growth at a faster rate
+compared to the gross national product because they are
+driven by long-term socio-ecological trends or megatrends,
+
+## Page 50
+
+The AndriTz Group ANNUAL REPORT 2022 50
+THE ANDRITZ SHARE
+LONG-TERM DIVIDEND POLICY relations activities since the ANDRITZ IPO in 2001. In 2022,
+ANDRITZ pursues a dividend policy oriented towards conti- ANDRITZ took part in many roadshows and investor confer-
+nuity. Depending on how business develops and on any ences, most of which were held online. In addition, the Inves-
+SHARE PRICE DEVELOPMENT large-scale acquisitions, ANDRITZ’s goal is to distribute an tor Relations team conducted numerous video and
+Development of the international stock and financial mar- average of 50–60% of the net profit to the shareholders in conference calls to inform investors and analysts about the
+kets was entirely overshadowed by the war in Ukraine and the long term. main key figures, the company’s strategic and operative
+its impact on the global economy. High energy and raw development, current events and the impact that the war
+material prices, bottlenecks and delays in the global supply STABLE AND WELL-BALANCED SHAREHOLDER in Ukraine and also the COVID-19 pandemic have had on
+chains, and the record inflation rates that all this causes put STRUCTURE the individual markets, and about current ESG topics.
+pressure on virtually all share indices on the main stock ANDRITZ has a stable and well-balanced shareholder struc-
+exchanges in Europe, the USA, and Asia. Furthermore, the ture. Around 31.5% of the ANDRITZ AG share capital is partly BROAD RESEARCH COVERAGE
+rigorous interest policy pursued by the American and Euro- held directly and partly indirectly by Custos Privatstiftung In addition to overall economic and company-specific
+pean central banks in order to fight the high inflation con- and by Wolfgang Leitner, a member of the ANDRITZ AG considerations, the recommendations and share price
+tributed substantially to the drop in share prices on the inter- Supervisory Board, respectively. 30.72% is owned by Custos expectations voiced by analyst firms play an important role
+national stock markets. Vermögensverwaltungs GmbH and 0.77% by Cerberus Ver- in investment decisions by shareholders. The following inter-
+In this stock exchange environment, the ANDRITZ share mögensverwaltung GmbH. With a free float of around 68.5%, national banks and investment houses publish analysis
+price developed favorably and increased by +18.0% in 2022. national and international institutional investors and private reports on ANDRITZ at regular intervals: Baader Bank, BNP
+The ATX, the leading share index on the Vienna Stock investors make up the majority of the shareholders. Most Paribas Exane, Deutsche Bank, ERSTE Bank, Hauck &
+Exchange, dropped significantly by 19% during the same institutional investors come from the UK, Austria, and Ger- Aufhäuser, HSBC Trinkaus, J.P. Morgan, Kepler Cheuvreux,
+period. The highest closing price of the ANDRITZ share was many, while the bulk of the private investors are from Austria Raiffeisen Bank International, UBS, Warburg Research, and
+54.55 EUR (December 14, 2022), and the lowest closing price and Germany. Wiener Privatbank.
+36.04 EUR (March 4, 2022).
+TRANSPARENT COMMUNICATION POLICY The latest information on research coverage and consensus
+Regular and transparent communication with institutional estimates is available on the Investor Relations page of the
+and private shareholders has been the focus of investor ANDRITZ web site andritz.com/research-coverage.
+
+### Tables
+
+#### Table 1
+
+chains, and the record inflation rates that all this causes put|STRUCTURE|the individual markets, and about current ESG topics.
+pressure on virtually all share indices on the main stock|ANDRITZ has a stable and well-balanced shareholder struc-|nan
+exchanges in Europe, the USA, and Asia. Furthermore, the|ture. Around 31.5% of the ANDRITZ AG share capital is partly|BROAD RESEARCH COVERAGE
+rigorous interest policy pursued by the American and Euro-|held directly and partly indirectly by Custos Privatstiftung|In addition to overall economic and company-specific
+pean central banks in order to fight the high inflation con-|and by Wolfgang Leitner, a member of the ANDRITZ AG|considerations, the recommendations and share price
+tributed substantially to the drop in share prices on the inter-|Supervisory Board, respectively. 30.72% is owned by Custos|expectations voiced by analyst firms play an important role
+national stock markets.|Vermögensverwaltungs GmbH and 0.77% by Cerberus Ver-|in investment decisions by shareholders. The following inter-
+In this stock exchange environment, the ANDRITZ share|mögensverwaltung GmbH. With a free float of around 68.5%,|national banks and investment houses publish analysis
+price developed favorably and increased by +18.0% in 2022.|national and international institutional investors and private|reports on ANDRITZ at regular intervals: Baader Bank, BNP
+The ATX, the leading share index on the Vienna Stock|investors make up the majority of the shareholders. Most|Paribas Exane, Deutsche Bank, ERSTE Bank, Hauck &
+Exchange, dropped significantly by 19% during the same|institutional investors come from the UK, Austria, and Ger-|Aufhäuser, HSBC Trinkaus, J.P. Morgan, Kepler Cheuvreux,
+
+#### Table 2
+
+its impact on the global economy. High energy and raw|nan|development, current events and the impact that the war
+
+## Page 51
+
+The AndriTz Group ANNUAL REPORT 2022 51
+RELATIVE SHARE PRICE PERFORMANCE RELATIVE SHARE PRICE PERFORMANCE
+OF THE ANDRITZ SHARE VERSUS THE ATX OF THE ANDRITZ SHARE VERSUS THE ATX
+SINCE THE IPO IN 2022
+2,200%
+120%
+2,000%
+1,800% 110%
+1,600%
+100%
+1,400%
+1,200%
+90%
+1,000%
+800%
+80%
+600%
+400%
+70%
+200%
+0% 60%
+2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 JAN 22 FEB 22 MAR 22 APR 22 MAY 22 JUN 22 JUL 22 AUG 22 SEP 22 OCT 22 NOV 22 deC 22
+ANDRITZ ATX
+
+### Tables
+
+#### Table 1
+
+2,000%|nan
+1,800%|110%
+1,600%|nan
+1,400%|nan
+nan|100%
+1,200%|nan
+nan|90%
+1,000%|nan
+800%|nan
+nan|80%
+600%|nan
+400%|70%
+200%|nan
+0%|60%
+
+## Page 52
+
+The AndriTz Group ANNUAL REPORT 2022 52
+DEVELOPMENT OF THE DIVIDEND PER SHARE 2003–2022
+2.10*
+1.65
+1.55 1.55
+1.50
+1.35
+1.20
+1.10
+1.00 1.00
+0.85
+0.55
+0.50 0.50 0.50 0.50
+0.38
+0.25
+0.18
+0.13
+* Proposal to the
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+Annual General Meeting
+DEVELOPMENT OF THE PAYOUT RATIO 2003–2022
+78.1
+70.5
+60.1
+55.8
+52.9 48.9 49.0 51.1 49.0 51.9 48.1 50.3 50.7
+44.2
+38.3 40.3 39.4
+34.3
+32.6 32.5
+Average payout ratio
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+(2003-2022): 48.9%
+
+### Tables
+
+#### Table 1
+
+nan|nan|nan|nan|nan|nan|nan|1.5|1.55|1.55|nan|nan|nan
+nan|nan|nan|nan|nan|nan|1.35|nan|nan|nan|nan|nan|nan
+nan|nan|nan|1.2|nan|nan|nan|nan|nan|nan|nan|nan|nan
+nan|nan|1.1|nan|nan|nan|nan|nan|nan|nan|nan|nan|nan
+nan|nan|nan|nan|nan|1.0|nan|nan|nan|nan|nan|1.0|nan
+nan|0.85|nan|nan|nan|nan|nan|nan|nan|nan|nan|nan|nan
+0.5|nan|nan|nan|0.5|nan|nan|nan|nan|nan|0.5|nan|nan
+
+#### Table 2
+
+nan|0.85|nan|nan|nan
+0.5|nan|0.5|nan|0.5
+
+#### Table 3
+
+nan|nan|0.25|nan
+0.13|0.18|nan|nan
+
+#### Table 4
+
+nan|nan|52.9|nan|nan|nan|nan|nan|55.8|nan|nan|nan|nan|nan
+nan|nan|nan|48.9|49.0|51.1|49.0|51.9|nan|nan|nan|48.1|50.3|50.7
+38.3|40.3|nan|nan|nan|nan|nan|nan|nan|nan|39.4|nan|nan|nan
+
+#### Table 5
+
+nan|nan|52.9|nan|nan|nan|nan|nan|55.8|nan|nan|nan|nan|nan
+nan|nan|nan|48.9|49.0|51.1|49.0|51.9|nan|nan|nan|48.1|50.3|50.7
+38.3|40.3|nan|nan|nan|nan|nan|nan|nan|nan|39.4|nan|nan|nan
+
+#### Table 6
+
+34.3|32.6|32.5|nan|nan|nan
+
+#### Table 7
+
+
+## Page 53
+
+The AndriTz Group ANNUAL REPORT 2022 53
+KEY FIGURES OF THE ANDRITZ SHARE
+unit 2022 2021 2020 2019 2018
+Earnings per share EUR 4.14 3.28 2.08 1.27 2.20
+Dividend per share EUR 2.101 1.65 1.00 0.50 1.55
+Payout ratio % 50.7 50.3 48.1 39.4 70.5
+Price-earnings-ratio (based on the year-end closing price) – 12.93 13.84 18.02 30.24 18.24
+Equity attributable to shareholders per share EUR 18.69 15.86 12.64 12.05 13.02
+Highest closing price EUR 54.55 50.85 38.82 45.06 53.50
+Lowest closing price EUR 36.04 36.66 24.36 29.88 38.88
+Closing price at year-end EUR 53.55 45.38 37.48 38.40 40.12
+Market capitalization (at year-end) MEUR 5,569.2 4,719.5 3,897.9 3,993.6 4,172.5
+Performance % +18.0 +21.1 –2.4 –4.3 –14.8
+ATX weighting (at year-end) % 7.7744 5.3766 6.1243 5.6622 7.1045
+Average trading volume2 Shares 288,913 313,879 628,900 511,221 354,084
+Source: Vienna Stock Exchange 1 Proposal to the Annual General Meeting 2 Double counting – as published by the Vienna Stock Exchange
+
+### Tables
+
+#### Table 1
+
+Earnings per share|EUR|4.14|3.28|2.08|1.27|2.20
+Dividend per share|EUR|2.101|1.65|1.00|0.50|1.55
+Payout ratio|%|50.7|50.3|48.1|39.4|70.5
+Price-earnings-ratio (based on the year-end closing price)|–|12.93|13.84|18.02|30.24|18.24
+Equity attributable to shareholders per share|EUR|18.69|15.86|12.64|12.05|13.02
+Highest closing price|EUR|54.55|50.85|38.82|45.06|53.50
+Lowest closing price|EUR|36.04|36.66|24.36|29.88|38.88
+Closing price at year-end|EUR|53.55|45.38|37.48|38.40|40.12
+Market capitalization (at year-end)|MEUR|5,569.2|4,719.5|3,897.9|3,993.6|4,172.5
+Performance|%|+18.0|+21.1|–2.4|–4.3|–14.8
+ATX weighting (at year-end)|%|7.7744|5.3766|6.1243|5.6622|7.1045
+Average trading volume2|Shares|288,913|313,879|628,900|511,221|354,084
+
+## Page 54
+
+The AndriTz Group ANNUAL REPORT 2022 54
+FINANCIAL
+CALENDAR
+2023
+March 8, 2023 Results for the 2022 business year
+March 19, 2023 Record date of Annual General Meeting
+March 29, 2023 Annual General Meeting
+March 31, 2023 Ex-dividend
+April 3, 2023 Dividend record date
+April 5, 2023 Dividend payment
+April 27, 2023 Results for the first quarter of 2023
+July 27, 2023 Results for the first half of 2023
+The financial calendar with
+updates and information on the
+november 2, 2023 Results for the first three quarters of 2023
+ANDRITZ share can be found on
+the Investor Relations page at the
+ANDRITZ web site andritz.com/share
+
+## Page 55
+
+The AndriTz Group ANNUAL REPORT 2022 55
+SUSTAINABILITY
+AND
+COMPLIANCE
+SUSTAINABILITY (ESG) ESG goals that contribute towards resource-saving and
+Sustainability is an essential part of the ANDRITZ business sustainable business operations at ANDRITZ as well as to
+strategy and company culture. All business decisions and achieving the sustainability goals of its stakeholders have
+AndriTz considers sustainability and compliance to be the
+measures follow the tenets and principles of sustainable been defined for each topic.
+main cornerstones of responsible company management.
+development. The ANDRITZ sustainability program “We Care”
+Together with the company’s core values – passion,
+comprises all existing activities, new measures, goals and environmental focus: The ANDRITZ goal is to minimize the
+partnership, perspectives and versatility – sustainability
+plans in this sector. The group-wide ESG goals to which impact of its own business activities on the environment. For
+and compliance define what AndriTz stands for and form
+ANDRITZ has committed as part of “We Care” are based example, the company’s own CO footprint (Scope 1+2) is
+2
+the basis of entrepreneurial activities, which are intended
+on three fundamental topics – digital transformation and to be halved by 2025, and water consumption and the
+to satisfy the needs of all stakeholders in the best way
+innovation, stakeholder management, and corporate amount of waste produced are to be reduced significantly.
+possible.
+compliance. ANDRITZ strives to keep up with the latest devel- With its sustainable solutions and products, ANDRITZ also
+opments here at all times in order to ensure best practices seeks to help its customers achieve their sustainability goals.
+and highest standards. This is the basis on which the focus The target is to increase the proportion of sustainable prod-
+topics, defined as Environmental, Social and Governance, ucts and solutions to more than 50% of the Group’s revenue
+build – those areas in which ANDRITZ can make the largest by 2025 and thus contribute towards climate and environ-
+contribution in the interests of a sustainable future. Ambitious mental protection.
+
+## Page 56
+
+The AndriTz Group ANNUAL REPORT 2022 56
+Social focus: The goals in this sector focus on preventing AndriTz holds the following certifications and commits to Standards and initiatives:
+accidents at work and making ANDRITZ an attractive the following standards and initiatives: Science Based Targets initiative (SBTi)
+employer. The former is reflected in the goal of reducing the Global Reporting Initiative (GRI)
+frequency of accidents that result in lost working hours by iSo/ieC certifications: ILO International labor standards
+30% per year compared to the previous year and the latter ISO 14001:2015 – Environmental Management Systems Modern Slavery Act
+in reducing the fluctuation rate and increasing the number ISO 45001:2018 – Occupational Health and OECD Guidelines for Multinational Enterprises
+of female employees. Safety Management Systems UN Global Compact Initiative
+ISO 9001:2015 – Quality Management Systems
+Governance focus: ANDRITZ is concentrating its entrepre- ISO 50001:2018 – Energy Management Systems AndriTz is assessed by the following eSG rating
+neurial activities on minimizing relevant corporate risks ISO 37301:2021 – Compliance Management Systems agencies at regular intervals:
+and continuously expanding its compliance activities, with ISO 37001:2016 – Anti-bribery Management Systems Carbon Disclosure Project (CDP)
+special focus on sustainable supply chain management. IEC 62443 – Security for industrial automation EcoVadis
+and control systems FTSE Russell
+Details of the sustainability strategy are provided in the 2022 ISO/IEC 27001:2013 – Information technology – Security ISS ESG
+Annual Financial Report (“Non-financial statement”). techniques – Information security management systems MSCI
+S&P Global
+Furthermore, all products and processes are certified inter- Sustainalytics
+nally and externally (Machinery Directive, ASME, GB 150, ISO
+3834, ANSI, EN, DIN and ISO norms). Hence, they meet the
+highest standards and are reviewed regularly for possible
+impacts on health, safety, and the environment.
+
+## Page 57
+
+The AndriTz Group ANNUAL REPORT 2022 57
+ESG TARGETS TO BE REACHED BY THE END OF 2025
+ENVIRONMENT
+50%
+50%
+Share of revenue from
+sustainable solutions
+10% and products
+10%
+Reduction* in
+greenhouse gas emissions
+45%
+(Scope 1+2)
+Reduction in water
+consumption*
+Status end of 2022
+Reduction in waste volume*
+–39%
+Status end of 2022
+–3%
+–35%
+Status end of 2022
+Status end of 2022
+Details on the sustainability strategy are provided in the Consolidated Financial Statement 2022 (Non-financial statement).
+* compared to the base year 2019
+
+## Page 58
+
+The AndriTz Group ANNUAL REPORT 2022 58
+ESG TARGETS TO BE ACHIEVED BY THE END OF 2025
+SOCIAL
+20%
+30%
+4.5%
+Share of women
+in the workforce
+Reduction in the annual
+accident frequency rate
+(> 1 day of absence)
+Fluctuation rate as a result of
+compared to the 16.4%
+voluntary resignations
+preceding year
+Status end of 2022
+–10%
+6.0%
+vs. 2021
+Status end of 2022
+Status end of 2022
+
+## Page 59
+
+The AndriTz Group ANNUAL REPORT 2022 59
+ESG TARGETS TO BE ACHIEVED BY THE END OF 2025
+GOVERNANCE
+0
+85%
+0
+No infringements,
+achieved by implementing the
+highest corporate compliance
+standards and monitoring
+Procurement volume
+observation of these standards
+covered by audited suppliers
+No event-driven profit
+0
+warnings, achieved by
+detecting company risks
+at an early stage
+Status end of 2022
+82%
+0
+Status end of 2022
+Status end of 2022
+
+## Page 60
+
+The AndriTz Group ANNUAL REPORT 2022 60
+COMPLIANCE compliance matters at their own locations. To integrate the
+Compliance and ethical conduct, with integrity, respect, reli- Compliance Management System even more effectively into
+ability and sustainability as their cornerstones, form the basis the individual companies and locations, additional Compli-
+upon which ANDRITZ does business. ance Directors have been nominated at the ANDRITZ
+The ANDRITZ Code of Conduct and Ethics defines subsidiaries.
+the internal company values, principles and rules, which In order to verify how effective the compliance
+go beyond the extensive legal provisions. It applies to all management system is and achieve continuous improve-
+managers and members of staff as well as all external ments, ANDRITZ holds certification according to ISO 37301
+stakeholders working for ANDRITZ. for the compliance management system and to ISO 37001
+The group-wide Compliance Committee takes care of for the anti-corruption management system. The regulations
+regular updates to the policies and monitors compliance contain requirements for developing, implementing and
+with them. This committee is made up of employees from maintaining a compliance management system as well as
+different group functions and focuses on such topics as measures to help protect against, track down and provide
+corruption prevention, restraint of trade, anti-discrimination, proof of corruption.
+insider trading, supplier compliance, export controls and ANDRITZ has implemented various measures – above all
+data protection. training on individual compliance topics – in order to create
+Regional compliance officers assist the committee and and strengthen a basic understanding of compliance.
+are available as contacts to advise members of staff on
+
+## Page 61
+
+The AndriTz Group ANNUAL REPORT 2022 61
+PUBLISHER’S NOTE
+PUBLISHED BY disclaimer Annual Financial report 2022
+Certain statements contained in the ANDRITZ Annual Report 2022 Detailed information on the 2022 business year, such as the
+ANDRITZ AG, 8045 Graz, Austria
+and in the Annual Financial Report 2022 constitute “forward-looking integrated Management Report and Consolidated Financial
+andritz.com
+statements”. These statements, which contain the words “believe”, Statements for 2022, can be found in the Annual Financial
+“intend”, “expect”, and words of similar meaning, only reflect the Report 2022, available for download at andritz.com/downloads.
+Executive Board’s beliefs and expectations and are subject to
+RESPONSIBLE
+risks that may cause actual results to differ materially. As a result, picture credits
+Michael Buchbauer, ANDRITZ AG
+readers are cautioned not to place undue reliance on such P. 7: Riedler Peter; P. 10–16: Myrzik & Jarisch; picture of plant
+forward-looking statements. The company disclaims any obliga- P. 11: ANDRITZ; Information graphic P. 13: STRICHPUNKT;
+tion to publicly announce the result of any revisions to the for- P. 18: iStock by Getty Images; P. 19–20: Klabin S.A.; Information
+EDITOR
+ward-looking statements made herein, except where it would be graphic P. 21: STRICHPUNKT; P. 22-23: ANDRITZ; P. 25: Myrzik &
+ANDRITZ AG, Peter Gaide/ag-text
+required to do so under applicable law. The Annual Report 2022 Jarisch; P. 26: iStock by Getty Images; P. 28: Myrzik & Jarisch;
+and the Annual Financial Report 2022 contain assumptions and P. 29: ANDRITZ; P. 31 iStock by Getty Images; Illustration P. 32:
+forecasts based on the information available up to the copy STRICHPUNKT; P. 33: TNB Genco; P. 34: Kraftwerk Ryburg
+CONCEPT AND CREATIVE DESIGN
+deadline on February 27, 2023. If the premises for these assump- Schwörstadt AG; P. 36: ANDRITZ; P. 39: iStock by Getty Images;
+Strichpunkt GmbH, Stuttgart/Berlin, Germany
+tions and forecasts do not materialize or risks indicated in the P. 40: Getty Images; P. 41: ANDRITZ; Information graphic;
+strichpunkt-design.de “Risk management” chapter and in the Management Report P. 42: STRICHPUNKT; P. 43: Alarmy; P 43: iStock by Getty Images.
+of the Annual Financial Report 2022 do arise, actual results may
+vary from the forecasts made in the Annual Report 2022 and
+the Annual Financial Report 2022. Although the greatest care
+was exercised in preparing data, all information relating to the
+future is provided without guarantee.
+note
+In this report, ANDRITZ strives to use gender-sensitive language.
+If this is not possible in places, any personal terms used relate to
+all genders equally. The Annual Report 2022 is available in digital
+form only and is also published in German. In the event of any
+discrepancies, the German version shall prevail.
+
+## Page 62
+
+
+
