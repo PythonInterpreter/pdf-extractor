@@ -10,10 +10,10 @@ def is_mostly_empty(table, threshold=0.8):
     return empty_ratio >= threshold
 
 def extract_text_and_tables_to_md(pdf_path):
-
     output_md_file = "output.md"  # Fixed output file name
 
     output_path = "output.md"
+
     if os.path.exists(output_path):
         os.remove(output_path)
         print(f"File '{output_path}' has been removed.")
@@ -28,9 +28,11 @@ def extract_text_and_tables_to_md(pdf_path):
                 md.write('\n\n')
 
                 tables = page.extract_tables()
+                print(tables)
+                # print("tables is found")
                 if tables:
                     md.write('### Tables\n\n')
-                    for table_num, table in enumerate(tables, start=1):
+                    for table_num, table in enumerate(tables, start=0):
                         if is_mostly_empty(table) or len(table) < 2:
                             continue
                         md.write(f'#### Table {table_num}\n\n')
